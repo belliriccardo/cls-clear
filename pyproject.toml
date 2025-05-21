@@ -15,6 +15,9 @@ keywords = [
     "console",
     "screen",
     "clear-screen",
+    "terminal",
+    "command-line",
+
 ]
 authors = [{ name = "Riccardo Belli" }]
 classifiers = [
@@ -33,10 +36,10 @@ dynamic = ["version"]
 dev = ["ruff==0.7.4"]
 
 [project.urls]
-Documentation = "https://github.com/belliriccardo/cls#readme"
-Issues = "https://github.com/belliriccardo/cls/issues"
-Source = "https://github.com/belliriccardo/cls"
-Homepage = "https://github.com/belliriccardo/cls"
+Documentation = "https://github.com/belliriccardo/cls-clear#readme"
+Issues = "https://github.com/belliriccardo/cls-clear/issues"
+Source = "https://github.com/belliriccardo/cls-clear"
+Homepage = "https://github.com/belliriccardo/cls-clear"
 "Personal Homepage" = "https://www.riccardobelli.it"
 
 [tool.setuptools]
