@@ -28,7 +28,7 @@ Versus:
 >>> clear ↵ # 6 keypresses => 25% shorter
 ```
 
-Lifechanging stuff, I know.
+Life-changing stuff, I know.
 
 ## Installation and usage
 The installation and usage is as easy as pie; just install it via `pip`:

@@ -4,7 +4,7 @@ import inspect
 
 from .cls import clear, cls
 
-__version__ = "1.0.2"
+__version__ = "1.0.3"
 
 __all__ = ["__version__", "clear", "cls"]
 
