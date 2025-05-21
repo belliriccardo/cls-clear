@@ -25,6 +25,7 @@ Versus:
 ```python
 >>> from cls import * ↵ # 18 keypresses => 25% shorter
 >>> cls ↵ # 4 keypresses => 50% shorter
+>>> clear ↵ # 6 keypresses => 25% shorter
 ```
 
 Lifechanging stuff, I know.
